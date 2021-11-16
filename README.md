@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MeuMercado.
+- 🔭 I’m currently working on CERC - Central de recebivéis.
 - 🌱 I’m currently learning 'Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking'
-- 🤔 I’m looking for help with Flutter and CI/CD
-- 💬 Ask me about Machine Learning and Deep Learning. I’m physical
+- 🤔 I’m looking for help with CI/CD and Reactive Kotlin + quarkus
+- 💬 Ask me about Data enginner
 - 📫 How to reach me: fb.com/joaocrm
-- ⚡ Fun fact: I like league of legends and valorant(new game of Riot games).
+- ⚡ Fun fact: I like Battlefield 5 and play with my dog in garden.
